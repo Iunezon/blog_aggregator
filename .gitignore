@@ -1,0 +1,4 @@
+.env
+.vscode/
+blog_aggregator
+thunder-tests/
